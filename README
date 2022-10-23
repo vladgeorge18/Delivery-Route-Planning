@@ -1,0 +1,14 @@
+Delivery Route Planning
+
+
+Task1: Calculate the shortest route from the warehouse 
+to each store that needs to be supplied
+
+Task2: Find how many couriers should deliver
+packages and in which areas.(In other words,
+it finds the strongly connected components from the graph)
+
+Task3: Sugesst a route for the couriers to follow in order 
+to take the packages to the customers in the most efficient way
+possible.
+
